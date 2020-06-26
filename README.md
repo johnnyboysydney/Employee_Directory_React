@@ -1,3 +1,5 @@
+<img src="https://github.com/johnnyboysydney/employee_directorey_react/blob/master/public/components/img/logo.png" width="150" height="100">
+
 # Employee_Directory_React
 
 [contributors-shield]: https://img.shields.io/github/contributors/johnnyboysydney/Employee_Directory_React.svg?style=flat-square
