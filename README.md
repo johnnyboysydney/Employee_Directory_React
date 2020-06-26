@@ -1,4 +1,4 @@
-<img src="https://github.com/johnnyboysydney/employee_directorey_react/blob/master/public/components/img/logo.png" width="150" height="100">
+<img src="https://github.com/johnnyboysydney/employee_directorey_react/blob/master/public/components/img/logo.jpg" width="150" height="100">
 
 # Employee_Directory_React
 
