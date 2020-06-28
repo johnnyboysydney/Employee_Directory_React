@@ -35,7 +35,7 @@
 
 ## Link to the running application
 
-<https://ancient-cove-30926.herokuapp.com/>
+<a href="https://ancient-cove-30926.herokuapp.com/" target="_blank">Link to woking app</a>
 
 ## Description
 
