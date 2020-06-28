@@ -1,0 +1,12 @@
+.data-area {
+    margin: 0 10%;
+    width: 100%;
+}
+
+.data-area a {
+  color: aliceblue;
+}
+
+.data-area a:hover {
+  color: blue;
+}
