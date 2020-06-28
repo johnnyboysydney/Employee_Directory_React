@@ -7,3 +7,5 @@ cache:
 script:
   - npm test
   - npm run build
+before_install:
+  - cd src
