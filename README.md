@@ -98,7 +98,7 @@ Yes, you can modify and refractor the code
 
 ## Demo
 
-![Demo](./assets/demo/demo.gif)
+![Demo](https://github.com/johnnyboysydney/Employee_Directory_React//blob/master/Assets/demo/demo.jpg)
 
 ## License
 
