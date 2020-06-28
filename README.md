@@ -41,6 +41,11 @@
 
 An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name  
 
+## Screenshots
+
+![Screenshot](https://github.com/johnnyboysydney/Employee_Directory_React/blob/master/Assets/img/screenshot_app.JPG)
+![Screenshot](https://github.com/johnnyboysydney/Employee_Directory_React/blob/master/Assets/img/screenshot1.JPG)
+
 ## Development
 
 Created the MVC structure first and worked upon each element required, starting from the node.js, using terminal and running ``npm i``, installing all the required dependencies  
@@ -55,6 +60,8 @@ Below some links of interest:
 
 As a user, I want to be able to view my entire employee directory at once so that I have quick access to their information.
 
+## Installation
+
 To use this application locally:
 
 - Clone the GitHub repository at:
@@ -65,6 +72,13 @@ To use this application locally:
 - The app will be running in the browser
 
 ### Dependencies
+
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
 
 ## Tests
 
@@ -89,7 +103,7 @@ Yes, you can modify and refractor the code
 
 ## Demo
 
-![Demo](./public/assets/demo/demo.gif)
+![Demo](https://github.com/johnnyboysydney/Employee_Directory_React/blob/master/Assets/demo/demo.gif)
 
 ## License
 
