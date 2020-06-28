@@ -41,6 +41,11 @@
 
 An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name  
 
+## Screenshots
+
+![Screenshot](https://github.com/johnnyboysydney/Employee_Directory_React/blob/master/Assets/img/screenshot_app.JPG)
+![Screenshot](https://github.com/johnnyboysydney/Employee_Directory_React/blob/master/Assets/img/screenshot1.JPG)
+
 ## Development
 
 Created the MVC structure first and worked upon each element required, starting from the node.js, using terminal and running ``npm i``, installing all the required dependencies  
@@ -98,7 +103,7 @@ Yes, you can modify and refractor the code
 
 ## Demo
 
-![Demo](https://github.com/johnnyboysydney/Employee_Directory_React//blob/master/Assets/demo/demo.jpg)
+![Demo](https://github.com/johnnyboysydney/Employee_Directory_React/blob/master/Assets/demo/demo.gif)
 
 ## License
 
