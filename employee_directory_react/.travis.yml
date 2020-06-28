@@ -1,18 +1,9 @@
 language: node_js
-node_js: "12"
-branches:
-  only:
-    - master
+node_js:
+  - "stable"
 cache:
   directories:
-    - node_modules
-jobs:
-  include:
-  - stage: test
-    script:
-    - npm run build
-    - npm run lint
-    - npm run test
-  - stage: deploy
-    if: branch = master
-    script: npm run deploy
+  - node_modules
+script:
+  - npm test
+  - npm run build
