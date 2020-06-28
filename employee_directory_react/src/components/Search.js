@@ -1,7 +1,7 @@
 import React from 'react';
 import "../CSS/Search.css";
 
-const Search = (props) => {
+function Search({ handleSearchChange }) {
     return (
         <div className="searchBox">
             <form className="form-inline">
