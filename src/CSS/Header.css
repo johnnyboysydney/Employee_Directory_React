@@ -1,0 +1,19 @@
+.header {
+    padding: 2% 10%;
+    color: #ffffff;
+    background:linear-gradient(50deg, #246EA5 5%, #484981 50%, #169fa8) ;
+    width: 100%;
+    opacity: .8;
+    margin-bottom: 20px;
+    margin-left: 10%;
+}
+
+.header h1 {
+    text-align: center;
+    text-shadow: 1px 3px black;
+    letter-spacing: 3px;
+}
+
+.header p {
+    letter-spacing: 2px;
+}

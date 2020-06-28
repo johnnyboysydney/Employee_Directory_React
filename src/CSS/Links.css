@@ -1,0 +1,21 @@
+.links {
+    padding: 0 10%;
+    background:linear-gradient(50deg, #246EA5 5%, #484981 50%, #169fa8) ;
+    margin-bottom: 20px;
+    margin-left: 10%;
+    width: 100%;
+    margin-top: auto;
+}
+
+
+.links a {
+    color: #ffffff;
+}
+
+.links a:hover {
+    color: #38939B;
+  }
+
+span {
+    color: #d3670e;
+}

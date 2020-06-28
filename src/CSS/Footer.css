@@ -1,0 +1,26 @@
+.footer {
+    padding: 0 10%;
+    color: #ffffff;
+    background:linear-gradient(50deg, #246EA5 5%, #484981 50%, #169fa8) ;
+    margin-bottom: 20px;
+    margin-left: 10%;
+    width: 100%;
+    margin-top: auto;
+}
+
+.footer a {
+    color: #ffffff;
+}
+
+.footer a:hover {
+    color: #38939B;
+  }
+
+.centered {
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+span {
+    color: #d3670e;
+}

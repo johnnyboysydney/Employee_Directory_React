@@ -1,0 +1,11 @@
+html {
+    height: 100%;
+}
+
+body {
+    background: linear-gradient(90deg, #4C6476 5%, #8BB0B3 50%, #4C7376);
+    min-height: 100%;
+    margin-right: 15%;
+    display: flex;
+    flex-direction: column;
+}
