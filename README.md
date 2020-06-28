@@ -55,6 +55,8 @@ Below some links of interest:
 
 As a user, I want to be able to view my entire employee directory at once so that I have quick access to their information.
 
+## Installation
+
 To use this application locally:
 
 - Clone the GitHub repository at:
@@ -65,6 +67,13 @@ To use this application locally:
 - The app will be running in the browser
 
 ### Dependencies
+
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
 
 ## Tests
 
@@ -89,7 +98,7 @@ Yes, you can modify and refractor the code
 
 ## Demo
 
-![Demo](./public/assets/demo/demo.gif)
+![Demo](./assets/demo/demo.gif)
 
 ## License
 
