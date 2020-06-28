@@ -3,7 +3,7 @@ import "../CSS/Search.css";
 
 function Search({ handleSearchChange }) {
     return (
-        <div className="searchBox">
+        <div className="searchBox" id="search">
             <form className="form-inline">
                 <input
                 className="form-control"

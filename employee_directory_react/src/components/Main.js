@@ -1,4 +1,3 @@
-
 import React, { Component } from "react";
 import DataArea from "./DataArea";
 import "../CSS/Main.css";

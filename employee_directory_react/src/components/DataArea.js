@@ -3,6 +3,7 @@ import DataTable from "./DataTable";
 import Nav from "./Nav";
 import API from "../utils/API";
 import "../CSS/DataArea.css";
+import Links from "../components/Links";
 
 export default class DataArea extends Component {
     state = {
@@ -90,6 +91,7 @@ export default class DataArea extends Component {
         return (
           <>
             <Nav handleSearchChange={this.handleSearchChange} />
+            <Links />
             <div className="data-area">
               <DataTable
                 headings={this.headings}

@@ -1,4 +1,3 @@
-
 import React from "react";
 import Search from "./Search.js";
 import "../CSS/Search.css";
