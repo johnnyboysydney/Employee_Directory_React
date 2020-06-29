@@ -54,7 +54,6 @@ Below some links of interest:
 - node.js - <https://nodejs.org/en/>
 - heroku-cli NPM Package - <https://www.npmjs.com/package/heroku-cli>
 - path NPM Package - <https://www.npmjs.com/package/path>
-- indexedDB - <https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API>
 
 ## User Story
 
